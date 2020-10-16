@@ -1,0 +1,22 @@
+{
+  "name": "test-your-knowledge",
+  "version": "1.0.0",
+  "description": "A GADS Community Project - A web app that allows primary school students to learn and test their knowledge on Science, Math and Technology subjects.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vm7sus4/Test-Your-Knowledge.git"
+  },
+  "author": "Vincent Magesa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vm7sus4/Test-Your-Knowledge/issues"
+  },
+  "homepage": "https://github.com/vm7sus4/Test-Your-Knowledge#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
